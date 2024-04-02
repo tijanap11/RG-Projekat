@@ -1,2 +1,2 @@
- RG-Projekat
- "Computer Graphics" course project in OpenGL
+# RG-Projekat
+"Computer Graphics" course project in OpenGL
